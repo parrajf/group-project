@@ -1,5 +1,5 @@
 # Class Roster Project
 
-Wednesday
+Monday
 
 Contributed to by Jane Doe, Code Ninja
